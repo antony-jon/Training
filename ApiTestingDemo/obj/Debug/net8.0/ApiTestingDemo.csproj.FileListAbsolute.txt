@@ -98,3 +98,8 @@
 /workspaces/Training/ApiTestingDemo/obj/Debug/net8.0/ApiTestingDemo.pdb
 /workspaces/Training/ApiTestingDemo/obj/Debug/net8.0/ApiTestingDemo.genruntimeconfig.cache
 /workspaces/Training/ApiTestingDemo/obj/Debug/net8.0/ref/ApiTestingDemo.dll
+/workspaces/Training/ApiTestingDemo/bin/Debug/net8.0/UglyToad.PdfPig.dll
+/workspaces/Training/ApiTestingDemo/bin/Debug/net8.0/UglyToad.PdfPig.Core.dll
+/workspaces/Training/ApiTestingDemo/bin/Debug/net8.0/UglyToad.PdfPig.Fonts.dll
+/workspaces/Training/ApiTestingDemo/bin/Debug/net8.0/UglyToad.PdfPig.Tokenization.dll
+/workspaces/Training/ApiTestingDemo/bin/Debug/net8.0/UglyToad.PdfPig.Tokens.dll
